@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or the checked-in reference data, please cite the associated manuscript."
+title: "CycleSpaceCertificate: Numerical companion for cycle-space synchronization and transient-stability certificates"
+type: software
+authors:
+  - family-names: Chertkov
+    given-names: Michael
+    affiliation: University of Arizona
+repository-code: "https://github.com/mchertkov/CycleSpaceCertificate"
+version: "0.1.0"
+date-released: 2026-09-08
+keywords:
+  - power systems
+  - synchronization
+  - transient stability
+  - cycle space
+  - convex optimization
+  - computational loads
+  - MATPOWER
