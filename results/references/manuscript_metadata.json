@@ -1,0 +1,18 @@
+{
+  "case39_alpha": 4.0,
+  "case39_disturbance_bus": 20,
+  "case39_concentrated_balancing_bus": 38,
+  "case39_load_block_MW_approx": 2724.5,
+  "case39_prestep_max_angle_deg_approx": 46.17,
+  "case39_energy_faces": 92,
+  "case39_unique_edges": 46,
+  "transient_horizon_s": 20.0,
+  "transient_dt_s": 0.004,
+  "threshold_resolution_MW_approx": 1.0,
+  "case39_binding_bridge_matpower_buses": [
+    6,
+    31
+  ],
+  "case118_dcb_to_cohesive_gain_percent": 16.16,
+  "case118_fraction_of_dcb_to_continuation_gap_closed_percent": 77.93
+}
